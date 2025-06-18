@@ -69,11 +69,6 @@ The best-performing model was selected based on:
 - 📌 **Deployment on Cloud**: Hosting on AWS/GCP for scalability.
 - 📌 **Improved UI/UX**: A more interactive frontend using React or Flask templates.
 
-## 📬 Contact
-For any inquiries, reach out via:
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/om-manoj-sharma-b87b22291)
-- 🏆 GitHub: [Your Repository](https://github.com/oms0401/startup-predictor)
 
 ---
 
